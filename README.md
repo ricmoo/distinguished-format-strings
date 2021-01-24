@@ -1,6 +1,10 @@
 Distinguished Format String
 ===========================
 
+This idea has been deprecated in favour of [this idea](https://github.com/ricmoo/EIPs/blob/described-data/EIPS/eip-draft_described_data.md).
+
+----
+
 This is a very rough outline of the inkling of an idea. Do not implement this
 yet.
 
